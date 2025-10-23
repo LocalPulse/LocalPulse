@@ -13,12 +13,6 @@
   </tr>
 </table>
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=lua,typescript,javascript,python,react,nextjs,nodejs,vscode,git,github&perline=10&theme=dark" />
-</p>
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LocalPulse&bg_color=0d1117&color=ec7460&line=ec7460&point=9f9f9f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
